@@ -16,11 +16,11 @@
 
 ## Screenshots
 
-![dashboard](https://raw.githubusercontent.com/GooGee/shop-admin/main/image/chart.png)
+![dashboard](https://raw.githubusercontent.com/for-glory/shop-admin/main/image/chart.png)
 
-![permission](https://raw.githubusercontent.com/GooGee/shop-admin/main/image/permission.png)
+![permission](https://raw.githubusercontent.com/for-glory/shop-admin/main/image/permission.png)
 
-![product](https://raw.githubusercontent.com/GooGee/shop-admin/main/image/product.png)
+![product](https://raw.githubusercontent.com/for-glory/shop-admin/main/image/product.png)
 
 
 ## Install
